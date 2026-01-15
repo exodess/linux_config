@@ -1,0 +1,9 @@
+{
+    "Alt-/": "lua:comment.comment",
+    "Alt-Shift-Down": "None",
+    "Alt-Shift-Up": "None",
+    "Alt-l": "command:jumptag",
+    "CtrlUnderscore": "lua:comment.comment",
+    "F4": "command:jumptag",
+    "F8": "command:fexec make"
+}

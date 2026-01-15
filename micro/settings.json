@@ -1,0 +1,22 @@
+{
+    "*.c": {
+        "commenttype": "/* %s */"
+    },
+    "*.cpp": {
+        "commenttype": "// %s"
+    },
+    "*.h": {
+        "commenttype": "/* %s */"
+    },
+    "*.hpp": {
+        "commenttype": "// %s"
+    },
+    "colorscheme": "railscast",
+    "mkparents": true,
+    "savecursor": true,
+    "saveundo": true,
+    "scrollbar": true,
+    "scrollmargin": 8,
+    "scrollspeed": 8,
+    "tabsize": 2
+}
